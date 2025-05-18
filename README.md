@@ -1,6 +1,6 @@
 This is a simple math game I made using Python.
 
-## What it does:
+## **What it does**:
 
 
 
